@@ -1,0 +1,122 @@
+[
+  {
+    "IpAdress": "88.198.50.103",
+    "Port": null,
+    "Country": "Germany",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "51.195.201.93",
+    "Port": null,
+    "Country": "United Kingdom",
+    "Protocolo": "HTTP"
+  },
+  {
+    "IpAdress": "94.75.194.110",
+    "Port": null,
+    "Country": "Germany",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "184.181.217.204",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "45.199.148.2",
+    "Port": null,
+    "Country": "South Africa",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "50.206.25.105",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "HTTP"
+  },
+  {
+    "IpAdress": "206.253.164.198",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "98.162.25.23",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "72.223.168.73",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "192.111.135.21",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "69.61.200.104",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "70.166.167.55",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "98.162.25.29",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "72.49.49.11",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "50.206.25.111",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "89.140.125.17",
+    "Port": null,
+    "Country": "Spain",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "50.206.25.108",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "50.206.25.104",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "HTTPS"
+  },
+  {
+    "IpAdress": "24.249.199.4",
+    "Port": null,
+    "Country": "United States",
+    "Protocolo": "SOCKS4/5"
+  },
+  {
+    "IpAdress": "46.4.96.137",
+    "Port": null,
+    "Country": "Germany",
+    "Protocolo": "HTTPS"
+  }
+]
